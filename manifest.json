@@ -5,10 +5,21 @@
   "version": "1.0",
 
   "description": "A usefull add-on for web developers to view hidden inputs in form.",
+  "homepage_url": "https://github.com/grisnakh/Hack-the-Form",
+  
+  "permissions": [
+    "activeTab"
+  ],
+
+    "browser_action": {
+    "default_icon": "icons/icon-96.png",
+    "default_title": "Hack the Form"
+    // "default_popup": "popup/choose_beast.html"
+  },
 
   "icons": {
-    "48": "icons/icon-32.png",
-	"96": "icons/icon-64.png"
+    "48": "icons/icon-48.png",
+	"96": "icons/icon-96.png"
   },
 
   "content_scripts": [
@@ -16,15 +27,8 @@
       "matches": ["<all_urls>"],
       "js": ["formhack.js"]
     }
-  ],
+  ]
   
-  "applications": {
-  "gecko": {
-    "id": "hacktheform",
-    "strict_min_version": "42.0",
-    "strict_max_version": "50.*",
-    "update_url": "https://example.com/updates.json"
-  }
-}
+  
 
 }
