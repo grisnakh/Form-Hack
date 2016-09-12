@@ -1,0 +1,30 @@
+{
+
+  "manifest_version": 2,
+  "name": "Hack the Form",
+  "version": "1.0",
+
+  "description": "A usefull add-on for web developers to view hidden inputs in form.",
+
+  "icons": {
+    "48": "icons/icon-32.png",
+	"96": "icons/icon-64.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["formhack.js"]
+    }
+  ],
+  
+  "applications": {
+  "gecko": {
+    "id": "hacktheform",
+    "strict_min_version": "42.0",
+    "strict_max_version": "50.*",
+    "update_url": "https://example.com/updates.json"
+  }
+}
+
+}
