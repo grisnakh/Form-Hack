@@ -1,9 +1,15 @@
 html, body {
-  width: 500px;
+  width: 300px;
+  }
+  
+  html{
+  color: #2e2e2e;
+    background: rgb(234, 234, 234) none repeat scroll 0% 0%;
+
   }
 
   .beast {
-    margin: 3% auto;
+    margin: 3% auto;	
       padding: 4px;
         text-align: center;
 	  font-size: 1.5em;
@@ -14,4 +20,56 @@ html, body {
 	      .beast:hover {
 	        background-color: #CFF2F2;
 		}
+		
+		* {
+			
 
+    font-family: 'Open Sans Condensed', sans-serif;
+
+
+		}		
+		
+		section.header h1,
+		#fox_logo {
+    display: inline-block;
+	position: relative;
+	width: 98%;
+}
+		
+		.header {
+    padding: 20px;
+}
+
+#text_the {
+    color: #e76541;
+text-transform: uppercase;
+position: absolute;
+}
+#text_hack {font-size: 64px;font-weight: 300;}
+
+.explanatory{
+	font-weight: 300;
+	text-align: center;
+}
+.switch.demo3 {
+    width: 130px !important;
+    height: 50px;
+}
+.switch.demo3 label i::before {
+    content: "off";
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: bold;
+    color: rgba(0,0,0,0.4);
+    text-shadow: 0 1px 0 #bcb8ae, 0 -1px 0 #97958e;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px !important;
+    position: absolute;
+    top: 58%  !important;
+    margin-top: -12px !important;
+    right: -50%;
+}
+.main {
+    position: relative;
+    top: -30px;
+}
