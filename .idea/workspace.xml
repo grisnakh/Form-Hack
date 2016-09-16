@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0cc57a3-6b00-4ecc-915a-41a23d31abd8" name="Default" comment="Workning Demo">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/icon-32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/icon-64.png" afterPath="" />
+    <list default="true" id="b0cc57a3-6b00-4ecc-915a-41a23d31abd8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
     </list>
     <ignored path="Chrome App.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -538,12 +534,20 @@
       <updated>1474029945427</updated>
       <workItem from="1474029948792" duration="1262000" />
       <workItem from="1474032149507" duration="29000" />
-      <workItem from="1474033888674" duration="235000" />
+      <workItem from="1474033888674" duration="322000" />
     </task>
+    <task id="LOCAL-00001" summary="Workning Demo">
+      <created>1474034128164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1474034128164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2680000" />
+    <option name="totallyTimeSpent" value="2767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1296" height="1040" extended-state="6" />
