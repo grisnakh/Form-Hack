@@ -534,7 +534,7 @@
       <updated>1474029945427</updated>
       <workItem from="1474029948792" duration="1262000" />
       <workItem from="1474032149507" duration="29000" />
-      <workItem from="1474033888674" duration="322000" />
+      <workItem from="1474033888674" duration="424000" />
     </task>
     <task id="LOCAL-00001" summary="Workning Demo">
       <created>1474034128164</created>
@@ -543,11 +543,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474034128164</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create README&#10;">
+      <created>1474034220503</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1474034220503</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2767000" />
+    <option name="totallyTimeSpent" value="2869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1296" height="1040" extended-state="6" />
@@ -589,7 +596,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create gitignore&#10;" />
     <MESSAGE value="Workning Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Workning Demo" />
+    <MESSAGE value="Create README&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create README&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
