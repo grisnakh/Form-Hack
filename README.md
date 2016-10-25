@@ -10,4 +10,4 @@ To display the button, the extension registers a [browserAction](https://develop
 
 A non-persistent background script will listen for tab events and update the browserAction icon correspondingly. It also listens for `browserAction.onClicked` events to show or hide the hidden inputs when the user has clicked the icon.
 
-The addon can be found here Mo(https://addons.mozilla.org/en-US/firefox/addon/form-hack/). 
+The addon can be found here (https://addons.mozilla.org/en-US/firefox/addon/form-hack/). 
