@@ -1,7 +1,7 @@
 {
   "name": "Hack the Form",
   "description": "A usefull add-on for web developers to view hidden inputs in form.",
-  "version": "0.2",
+  "version": "0.3",
   "permissions": [
     "activeTab",
     "tabs"
