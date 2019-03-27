@@ -1,6 +1,6 @@
 # Form Hack
 
-> This example uses APIs that are available from Firefox 47 onwards.
+> This addon uses APIs that are available from Firefox 47 onwards.
 
 ## What it does
 
